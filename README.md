@@ -9,8 +9,8 @@
 
 | No | Title | Created | Updated | Report (HTML) | Code |
 |----|--------|----------|----------|----------------|------|
-| 01 | 交通事故データの可視化分析 | 2025-03-10 | 2025-03-15 | View | Notebook |
-| 02 | 前処理の実践例 | 2025-04-02 | 2025-04-02 | View | Notebook |
+| 01 | 交通事故データの可視化分析 | 2025-03-10 | 2025-03-15 | [View]() | [Notebook]() |
+| 02 | 前処理の実践例 | 2025-04-02 | 2025-04-02 | [View]() | [Notebook]() |
 
 ※ レポート更新時に「Updated」を変更します。
 
@@ -18,6 +18,6 @@
 
 ## Profiles
 
-note: https://note.com/your_note_profile  
-AtCoder: https://atcoder.jp/users/your_atcoder_id  
-Kaggle: https://www.kaggle.com/your_kaggle_id
+note: https://note.com/regal_ivy3002  
+AtCoder: https://atcoder.jp/users/YamagataY  
+Kaggle: https://www.kaggle.com/yamagatafairy96  
