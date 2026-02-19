@@ -19,6 +19,4 @@
 
 ## Profiles
 
-note: https://note.com/regal_ivy3002  
-AtCoder: https://atcoder.jp/users/YamagataY  
-Kaggle: https://www.kaggle.com/yamagatafairy96  
+[note](https://note.com/regal_ivy3002), [AtCoder](https://atcoder.jp/users/YamagataY), [Kaggle](https://www.kaggle.com/yamagatafairy96)  
